@@ -22,3 +22,6 @@ The  [BatchUpdateRouteValues](https://docs.devexpress.com/AspNet/DevExpress.Web.
 
 The  [SettingsAutoLayout](https://docs.devexpress.com/AspNet/DevExpress.Web.Mvc.DiagramSettings.SettingsAutoLayout)  property specifies the auto-layout algorithm and orientation the extension uses to build a diagram.  
 
+***See also:***  
+[Diagram for MVC - Node and Edge data sources - How to bind the extension to in-memory data sources](https://github.com/DevExpress-Examples/diagram-for-mvc-node-and-edge-data-sources-how-to-bind-the-extension-to-in-memory-data-sources)  
+[Diagram for MVC - How to bind containers to an in-memory data source](https://github.com/DevExpress-Examples/diagram-for-mvc-how-to-bind-containers-to-an-in-memory-data-source)

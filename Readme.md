@@ -9,7 +9,11 @@
 **[[Run Online]](https://codecentral.devexpress.com/240284159/)**
 <!-- run online end -->
 
-The DevExpress ASP.NET MVC  [Diagram](https://docs.devexpress.com/AspNet/DevExpress.Web.Mvc.DiagramExtension)  extension can build a tree structure from a linear data structure. Use the  [Bind(object nodeDataObject)](https://docs.devexpress.com/AspNet/DevExpress.Web.Mvc.DiagramExtension.Bind(System.Object))  method to bind the Diagram to the data source.
+The DevExpress ASP.NET MVC  [Diagram](https://docs.devexpress.com/AspNet/DevExpress.Web.Mvc.DiagramExtension)  extension can build a tree structure from a linear data structure. 
+
+![](diagram.png)
+
+Use the  [Bind(object nodeDataObject)](https://docs.devexpress.com/AspNet/DevExpress.Web.Mvc.DiagramExtension.Bind(System.Object))  method to bind the Diagram to the data source.
 
 To transform a linear data structure to hierarchical, the data source should contain two additional fields:
 

@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Diagram for MVC - Tree from Linear Data Structure - How to bind the extension to an in-memory data source
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/240284159/)**
-<!-- run online end -->
 
 The DevExpress ASP.NET MVC  [Diagram](https://docs.devexpress.com/AspNet/DevExpress.Web.Mvc.DiagramExtension)  extension can build a tree structure from a linear data structure. 
 
